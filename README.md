@@ -51,7 +51,7 @@ class Config:
 After running the Python file, a successfull run would look as the following:
 
 ```
-➜  libcloud-dynamic-dns git:(master) ✗ python update_dns.py
+➜  gcp-ddns git:(master) ✗ python gcp_ddns.py
 Setting A record: test.mydomain.com. to point: 8.8.8.8
 SUCCESS
 ```
